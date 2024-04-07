@@ -1,0 +1,8 @@
+name: NewProject
+version: '1.0'
+main: pl.com.cisc.newproject.NewProject
+
+commands:
+  hello:
+    description: Hello World Command
+    usage: /<command>
