@@ -1,6 +1,5 @@
 
-###   
-Opis Projektu
+### Opis Projektu
 
 Projekt ten ma na celu umożliwienie komunikacji pomiędzy serwerem Discord a serwerem Minecraft poprzez REST API. Umożliwia to integrację czatu Discorda z czatem w grze, co pozwala graczom na wspólną komunikację, niezależnie od tego, czy są online na serwerze Minecraft czy w aplikacji Discord.
 
